@@ -1,0 +1,40 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+# Ignore all raw/generated data, but keep the folder structure placeholders
+# so the project layout remains visible in the repo.
+data/raw/**
+data/interim/**
+data/processed/**
+
+!data/raw/.gitkeep
+!data/raw/eeg/.gitkeep
+!data/raw/clinical/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# Secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# Temporary
+*.log
+*.tmp
+
+# Ignorado manualmente
+4_Calidad_de_los_datos_reorganizada.ipynb
