@@ -1,5 +1,4 @@
 # I-CARE Data Analysis
-
 Análisis exploratorio y descriptivo del conjunto de datos I-CARE v2.1 para la caracterización clínica y fisiológica de pacientes en estado de coma tras un paro cardiaco.
 
 ## Descripción
