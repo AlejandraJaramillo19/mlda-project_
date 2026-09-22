@@ -1,0 +1,17 @@
+,Coeficiente (log-odds),OR,IC 95 % inferior,IC 95 % superior,p
+Intercept,0.7235,2.062,0.459,9.258,0.3451
+Sex vs Female = Male,0.2177,1.243,0.817,1.891,0.3087
+Shockable vs False = Desconocido,1.2268,3.41,0.905,12.853,0.07
+Shockable vs False = True,1.9103,6.755,4.282,10.657,0.0
+OHCA vs False = Desconocido,-0.0756,0.927,0.267,3.214,0.9051
+OHCA vs False = True,-0.3888,0.678,0.394,1.168,0.1611
+ROSC_cat vs Rápido (1-10 min) = Intermedio (11-30 min),-0.9325,0.394,0.198,0.781,0.0077
+ROSC_cat vs Rápido (1-10 min) = Prolongado (>30 min),-1.8934,0.151,0.058,0.388,0.0001
+ROSC_cat vs Rápido (1-10 min) = Sin dato,0.0046,1.005,0.33,3.058,0.9936
+TTM_cat vs 33 °C = 36 °C,-0.1816,0.834,0.387,1.795,0.6425
+TTM_cat vs 33 °C = Sin TTM,-1.4566,0.233,0.075,0.728,0.0122
+Hospital vs A = B,0.2618,1.299,0.409,4.123,0.6567
+Hospital vs A = D,0.7411,2.098,0.701,6.282,0.1853
+Hospital vs A = E,-0.1672,0.846,0.251,2.848,0.7871
+Hospital vs A = F,2.1532,8.612,1.729,42.908,0.0086
+Age,-0.0332,0.967,0.955,0.98,0.0

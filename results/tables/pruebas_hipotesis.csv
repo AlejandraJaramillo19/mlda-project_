@@ -1,0 +1,9 @@
+Contraste,Prueba,Estadístico,gl,p,Tamaño de efecto,Medida,Supuesto OK,p (Holm),Rechaza H₀ (α = 0.05)
+Hospital ~ Outcome,χ² de independencia,24.208,4.0,7.26e-05,0.183,V de Cramér,True,3.63e-04,True
+Sex ~ Outcome,χ² de independencia,1.539,1.0,2.15e-01,0.03,V de Cramér,True,6.44e-01,False
+OHCA ~ Outcome,χ² de independencia,1.114,2.0,5.73e-01,0.0,V de Cramér,True,9.33e-01,False
+Shockable Rhythm ~ Outcome,χ² de independencia,88.848,2.0,5.09e-20,0.379,V de Cramér,True,4.07e-19,True
+ROSC_cat ~ Outcome,χ² de independencia,28.267,3.0,3.19e-06,0.204,V de Cramér,True,1.92e-05,True
+TTM_cat ~ Outcome,χ² de independencia,1.525,2.0,4.67e-01,0.0,V de Cramér,True,9.33e-01,False
+Age ~ Outcome,U de Mann-Whitney,31928.0,,1.19e-07,0.257,rango-biserial,True,8.34e-07,True
+ROSC ~ Outcome (n = 303),U de Mann-Whitney,7565.0,,1.30e-02,0.183,rango-biserial,True,5.19e-02,False
