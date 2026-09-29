@@ -38,3 +38,4 @@ data/processed/**
 
 # Ignorado manualmente
 4_Calidad_de_los_datos_reorganizada.ipynb
+results/
